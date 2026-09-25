@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d01b15d747a9c6c2a96b387d1a132ac53cda74a6 Atik471 <108218772+Atik471@users.noreply.github.com> 1736771189 +0600	commit (initial): added background and water
+d01b15d747a9c6c2a96b387d1a132ac53cda74a6 0000000000000000000000000000000000000000 Atik471 <108218772+Atik471@users.noreply.github.com> 1736771232 +0600	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 d01b15d747a9c6c2a96b387d1a132ac53cda74a6 Atik471 <108218772+Atik471@users.noreply.github.com> 1736771232 +0600	Branch: renamed refs/heads/master to refs/heads/main
+d01b15d747a9c6c2a96b387d1a132ac53cda74a6 ef8c975dfb591dbd1c285cda891343a4c66d9d12 Atik471 <108218772+Atik471@users.noreply.github.com> 1736789854 +0600	commit: added container
+ef8c975dfb591dbd1c285cda891343a4c66d9d12 6b9ae860a8f3b335f9380afc955f25803fc3957d Atik471 <108218772+Atik471@users.noreply.github.com> 1736820314 +0600	commit: fixed bug - screen blinks while translation
+6b9ae860a8f3b335f9380afc955f25803fc3957d 90ebe5037a46999e95e01430538a54d535da6c2c Atik471 <108218772+Atik471@users.noreply.github.com> 1738406519 +0600	commit: added bg building, bird, batman, ship
+90ebe5037a46999e95e01430538a54d535da6c2c d376e3e1f4a53614250dfc4ec862284d902f654e Atik471 <108218772+Atik471@users.noreply.github.com> 1738495052 +0600	commit: added port building, pirate ship
